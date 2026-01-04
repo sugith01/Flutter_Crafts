@@ -58,11 +58,10 @@ lib/
 
 ☑️ Include cloud sync or Firebase integration
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sugith
-🎓 Engineering Student @ P.A. College of Engineering and Technology
-💡 Aspiring Flutter Developer
+Developed by Shree Hari Sugith M  
+Engineering Student @ P.A. College of Engineering and Technology | Flutter Developer 🚀
 
 ## 🔗 Connect & Support
 
