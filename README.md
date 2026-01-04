@@ -64,7 +64,7 @@ Sugith
 🎓 Engineering Student @ P.A. College of Engineering and Technology
 💡 Aspiring Flutter Developer
 
-## 🔗 Connect 
+## 🔗 Connect & Support
 
 📫 Connect on LinkedIn[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.Shree%20Hari%20Sugith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shree-hari-sugith-650059320/)
 
