@@ -66,10 +66,9 @@ Sugith
 
 ## 🔗 Connect & Support
 
-📫 Connect on LinkedIn[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.Shree%20Hari%20Sugith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shree-hari-sugith-650059320/)
 
-
-💻 GitHub: @sugith01
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.%20Shree%20Hari%20Sugith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shree-hari-sugith-650059320/)
+[![GitHub](https://img.shields.io/badge/GitHub-sugith01-black?style=flat&logo=github)](https://github.com/sugith01)
 
 ⭐ Support
 
