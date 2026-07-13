@@ -1,4 +1,4 @@
-# 📝 Flutter To-Do List App
+#Tickify -📝 Flutter To-Do List App
 
 A simple and interactive **To-Do List** application built using **Flutter**.  
 This project helps beginners understand how to manage state, use lists, and build responsive UI with Flutter widgets.
